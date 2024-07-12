@@ -1,0 +1,140 @@
+Teste Cromossomo (x: 4, y: 8, w: 15, z: 13) -> Equação: 5*4 + 8^2 + 15 + 13^3 = 2296
+Teste Cromossomo (x: 11, y: 13, w: 1, z: 0) -> Equação: 5*11 + 13^2 + 1 + 0^3 = 225
+Teste Cromossomo (x: 20, y: 14, w: 5, z: 2) -> Equação: 5*20 + 14^2 + 5 + 2^3 = 309
+Teste Cromossomo (x: 2, y: 3, w: 7, z: 6) -> Equação: 5*2 + 3^2 + 7 + 6^3 = 242
+Teste Cromossomo (x: 8, y: 4, w: 20, z: 12) -> Equação: 5*8 + 4^2 + 20 + 12^3 = 1804
+Teste Cromossomo (x: 3, y: 19, w: 1, z: 19) -> Equação: 5*3 + 19^2 + 1 + 19^3 = 7236
+Teste Cromossomo (x: 11, y: 16, w: 10, z: 8) -> Equação: 5*11 + 16^2 + 10 + 8^3 = 833
+Teste Cromossomo (x: 1, y: 8, w: 11, z: 9) -> Equação: 5*1 + 8^2 + 11 + 9^3 = 809
+Teste Cromossomo (x: 6, y: 10, w: 10, z: 2) -> Equação: 5*6 + 10^2 + 10 + 2^3 = 148
+Teste Cromossomo (x: 3, y: 17, w: 13, z: 9) -> Equação: 5*3 + 17^2 + 13 + 9^3 = 1046
+Geração 1 - Melhor Cromossomo: (x: 6, y: 10, w: 10, z: 2) com Aptidão: 0.02631578947368421
+Teste Cromossomo (x: 6, y: 10, w: 10, z: 2) -> Equação: 5*6 + 10^2 + 10 + 2^3 = 148
+Teste Cromossomo (x: 6, y: 2, w: 10, z: 0) -> Equação: 5*6 + 2^2 + 10 + 0^3 = 44
+Teste Cromossomo (x: 6, y: 14, w: 10, z: 2) -> Equação: 5*6 + 14^2 + 10 + 2^3 = 244
+Teste Cromossomo (x: 6, y: 10, w: 10, z: 3) -> Equação: 5*6 + 10^2 + 10 + 3^3 = 167
+Teste Cromossomo (x: 11, y: 13, w: 0, z: 1) -> Equação: 5*11 + 13^2 + 0 + 1^3 = 225
+Teste Cromossomo (x: 11, y: 15, w: 1, z: 0) -> Equação: 5*11 + 15^2 + 1 + 0^3 = 281
+Teste Cromossomo (x: 11, y: 12, w: 13, z: 6) -> Equação: 5*11 + 12^2 + 13 + 6^3 = 428
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 2) -> Equação: 5*11 + 11^2 + 3 + 2^3 = 187
+Teste Cromossomo (x: 2, y: 3, w: 2, z: 18) -> Equação: 5*2 + 3^2 + 2 + 18^3 = 5853
+Teste Cromossomo (x: 8, y: 7, w: 7, z: 7) -> Equação: 5*8 + 7^2 + 7 + 7^3 = 439
+Geração 2 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 3, z: 2) com Aptidão: 0.3333333333333333
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 9, y: 11, w: 5, z: 2) -> Equação: 5*9 + 11^2 + 5 + 2^3 = 179
+Teste Cromossomo (x: 13, y: 11, w: 3, z: 3) -> Equação: 5*13 + 11^2 + 3 + 3^3 = 216
+Teste Cromossomo (x: 9, y: 11, w: 3, z: 2) -> Equação: 5*9 + 11^2 + 3 + 2^3 = 177
+Teste Cromossomo (x: 6, y: 14, w: 11, z: 3) -> Equação: 5*6 + 14^2 + 11 + 3^3 = 264
+Teste Cromossomo (x: 6, y: 10, w: 10, z: 3) -> Equação: 5*6 + 10^2 + 10 + 3^3 = 167
+Teste Cromossomo (x: 7, y: 2, w: 10, z: 0) -> Equação: 5*7 + 2^2 + 10 + 0^3 = 49
+Teste Cromossomo (x: 6, y: 2, w: 11, z: 2) -> Equação: 5*6 + 2^2 + 11 + 2^3 = 53
+Teste Cromossomo (x: 6, y: 10, w: 0, z: 1) -> Equação: 5*6 + 10^2 + 0 + 1^3 = 131
+Teste Cromossomo (x: 11, y: 13, w: 10, z: 2) -> Equação: 5*11 + 13^2 + 10 + 2^3 = 242
+Geração 3 - Novo Melhor Cromossomo: (x: 9, y: 11, w: 5, z: 2) com Aptidão: 0.14285714285714285
+Teste Cromossomo (x: 9, y: 11, w: 1, z: 0) -> Equação: 5*9 + 11^2 + 1 + 0^3 = 167
+Teste Cromossomo (x: 8, y: 8, w: 4, z: 2) -> Equação: 5*8 + 8^2 + 4 + 2^3 = 116
+Teste Cromossomo (x: 9, y: 11, w: 5, z: 3) -> Equação: 5*9 + 11^2 + 5 + 3^3 = 198
+Teste Cromossomo (x: 9, y: 3, w: 5, z: 2) -> Equação: 5*9 + 3^2 + 5 + 2^3 = 67
+Teste Cromossomo (x: 3, y: 11, w: 2, z: 8) -> Equação: 5*3 + 11^2 + 2 + 8^3 = 650
+Teste Cromossomo (x: 2, y: 11, w: 2, z: 0) -> Equação: 5*2 + 11^2 + 2 + 0^3 = 133
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 2) -> Equação: 5*11 + 11^2 + 3 + 2^3 = 187
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 9, y: 3, w: 10, z: 2) -> Equação: 5*9 + 3^2 + 10 + 2^3 = 72
+Teste Cromossomo (x: 7, y: 10, w: 3, z: 0) -> Equação: 5*7 + 10^2 + 3 + 0^3 = 138
+Geração 4 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 3, z: 2) com Aptidão: 0.3333333333333333
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 10) -> Equação: 5*11 + 11^2 + 3 + 10^3 = 1179
+Teste Cromossomo (x: 3, y: 15, w: 3, z: 2) -> Equação: 5*3 + 15^2 + 3 + 2^3 = 251
+Teste Cromossomo (x: 11, y: 3, w: 3, z: 2) -> Equação: 5*11 + 3^2 + 3 + 2^3 = 75
+Teste Cromossomo (x: 11, y: 9, w: 3, z: 2) -> Equação: 5*11 + 9^2 + 3 + 2^3 = 147
+Teste Cromossomo (x: 10, y: 11, w: 0, z: 8) -> Equação: 5*10 + 11^2 + 0 + 8^3 = 683
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 11, y: 11, w: 5, z: 3) -> Equação: 5*11 + 11^2 + 5 + 3^3 = 208
+Teste Cromossomo (x: 9, y: 11, w: 2, z: 0) -> Equação: 5*9 + 11^2 + 2 + 0^3 = 168
+Teste Cromossomo (x: 9, y: 11, w: 1, z: 0) -> Equação: 5*9 + 11^2 + 1 + 0^3 = 167
+Teste Cromossomo (x: 9, y: 11, w: 7, z: 3) -> Equação: 5*9 + 11^2 + 7 + 3^3 = 200
+Geração 5 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 2, z: 0) com Aptidão: 0.125
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 0) -> Equação: 5*11 + 11^2 + 10 + 0^3 = 186
+Teste Cromossomo (x: 1, y: 11, w: 2, z: 2) -> Equação: 5*1 + 11^2 + 2 + 2^3 = 136
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 4) -> Equação: 5*11 + 11^2 + 2 + 4^3 = 242
+Teste Cromossomo (x: 9, y: 3, w: 7, z: 3) -> Equação: 5*9 + 3^2 + 7 + 3^3 = 88
+Teste Cromossomo (x: 9, y: 11, w: 15, z: 5) -> Equação: 5*9 + 11^2 + 15 + 5^3 = 306
+Teste Cromossomo (x: 9, y: 11, w: 0, z: 0) -> Equação: 5*9 + 11^2 + 0 + 0^3 = 166
+Teste Cromossomo (x: 13, y: 10, w: 7, z: 1) -> Equação: 5*13 + 10^2 + 7 + 1^3 = 173
+Teste Cromossomo (x: 9, y: 11, w: 1, z: 4) -> Equação: 5*9 + 11^2 + 1 + 4^3 = 231
+Teste Cromossomo (x: 8, y: 11, w: 2, z: 1) -> Equação: 5*8 + 11^2 + 2 + 1^3 = 164
+Geração 6 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 10, z: 0) com Aptidão: 0.5
+Teste Cromossomo (x: 9, y: 11, w: 10, z: 0) -> Equação: 5*9 + 11^2 + 10 + 0^3 = 176
+Teste Cromossomo (x: 11, y: 3, w: 10, z: 0) -> Equação: 5*11 + 3^2 + 10 + 0^3 = 74
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 0) -> Equação: 5*11 + 11^2 + 10 + 0^3 = 186
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 0) -> Equação: 5*11 + 11^2 + 10 + 0^3 = 186
+Teste Cromossomo (x: 11, y: 3, w: 2, z: 0) -> Equação: 5*11 + 3^2 + 2 + 0^3 = 66
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 11, y: 11, w: 4, z: 0) -> Equação: 5*11 + 11^2 + 4 + 0^3 = 180
+Teste Cromossomo (x: 13, y: 10, w: 2, z: 1) -> Equação: 5*13 + 10^2 + 2 + 1^3 = 168
+Teste Cromossomo (x: 9, y: 2, w: 0, z: 0) -> Equação: 5*9 + 2^2 + 0 + 0^3 = 49
+Teste Cromossomo (x: 9, y: 14, w: 13, z: 3) -> Equação: 5*9 + 14^2 + 13 + 3^3 = 281
+Geração 7 - Cromossomo (x: 11, y: 11, w: 10, z: 0) ainda é o mais apto com Aptidão: 0.5
+Teste Cromossomo (x: 11, y: 11, w: 11, z: 1) -> Equação: 5*11 + 11^2 + 11 + 1^3 = 188
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 0) -> Equação: 5*11 + 11^2 + 10 + 0^3 = 186
+Teste Cromossomo (x: 10, y: 10, w: 10, z: 0) -> Equação: 5*10 + 10^2 + 10 + 0^3 = 160
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 2) -> Equação: 5*11 + 11^2 + 10 + 2^3 = 194
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 0) -> Equação: 5*11 + 11^2 + 10 + 0^3 = 186
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 9) -> Equação: 5*11 + 11^2 + 10 + 9^3 = 915
+Teste Cromossomo (x: 11, y: 15, w: 4, z: 4) -> Equação: 5*11 + 15^2 + 4 + 4^3 = 348
+Teste Cromossomo (x: 11, y: 15, w: 2, z: 0) -> Equação: 5*11 + 15^2 + 2 + 0^3 = 282
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 11, y: 10, w: 0, z: 0) -> Equação: 5*11 + 10^2 + 0 + 0^3 = 155
+Geração 8 - Cromossomo (x: 11, y: 11, w: 10, z: 0) ainda é o mais apto com Aptidão: 0.5
+Teste Cromossomo (x: 11, y: 3, w: 10, z: 0) -> Equação: 5*11 + 3^2 + 10 + 0^3 = 74
+Teste Cromossomo (x: 3, y: 9, w: 10, z: 0) -> Equação: 5*3 + 9^2 + 10 + 0^3 = 106
+Teste Cromossomo (x: 9, y: 3, w: 10, z: 0) -> Equação: 5*9 + 3^2 + 10 + 0^3 = 64
+Teste Cromossomo (x: 11, y: 9, w: 10, z: 0) -> Equação: 5*11 + 9^2 + 10 + 0^3 = 146
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 9) -> Equação: 5*11 + 11^2 + 10 + 9^3 = 915
+Teste Cromossomo (x: 3, y: 9, w: 10, z: 0) -> Equação: 5*3 + 9^2 + 10 + 0^3 = 106
+Teste Cromossomo (x: 3, y: 11, w: 11, z: 1) -> Equação: 5*3 + 11^2 + 11 + 1^3 = 148
+Teste Cromossomo (x: 9, y: 3, w: 10, z: 0) -> Equação: 5*9 + 3^2 + 10 + 0^3 = 64
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 10) -> Equação: 5*11 + 11^2 + 2 + 10^3 = 1178
+Teste Cromossomo (x: 11, y: 11, w: 11, z: 1) -> Equação: 5*11 + 11^2 + 11 + 1^3 = 188
+Geração 9 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 11, z: 1) com Aptidão: 0.25
+Teste Cromossomo (x: 11, y: 15, w: 10, z: 1) -> Equação: 5*11 + 15^2 + 10 + 1^3 = 291
+Teste Cromossomo (x: 11, y: 11, w: 9, z: 2) -> Equação: 5*11 + 11^2 + 9 + 2^3 = 193
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 1) -> Equação: 5*11 + 11^2 + 3 + 1^3 = 180
+Teste Cromossomo (x: 10, y: 11, w: 3, z: 1) -> Equação: 5*10 + 11^2 + 3 + 1^3 = 175
+Teste Cromossomo (x: 3, y: 11, w: 11, z: 1) -> Equação: 5*3 + 11^2 + 11 + 1^3 = 148
+Teste Cromossomo (x: 3, y: 11, w: 11, z: 1) -> Equação: 5*3 + 11^2 + 11 + 1^3 = 148
+Teste Cromossomo (x: 3, y: 11, w: 10, z: 0) -> Equação: 5*3 + 11^2 + 10 + 0^3 = 146
+Teste Cromossomo (x: 11, y: 10, w: 3, z: 1) -> Equação: 5*11 + 10^2 + 3 + 1^3 = 159
+Teste Cromossomo (x: 11, y: 9, w: 10, z: 0) -> Equação: 5*11 + 9^2 + 10 + 0^3 = 146
+Teste Cromossomo (x: 3, y: 1, w: 8, z: 0) -> Equação: 5*3 + 1^2 + 8 + 0^3 = 24
+Geração 10 - Novo Melhor Cromossomo: (x: 11, y: 11, w: 3, z: 1) com Aptidão: 0.16666666666666666
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 1) -> Equação: 5*11 + 11^2 + 3 + 1^3 = 180
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 3) -> Equação: 5*11 + 11^2 + 3 + 3^3 = 206
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 5) -> Equação: 5*11 + 11^2 + 3 + 5^3 = 304
+Teste Cromossomo (x: 9, y: 11, w: 3, z: 1) -> Equação: 5*9 + 11^2 + 3 + 1^3 = 170
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 2) -> Equação: 5*11 + 11^2 + 10 + 2^3 = 194
+Teste Cromossomo (x: 11, y: 15, w: 13, z: 0) -> Equação: 5*11 + 15^2 + 13 + 0^3 = 293
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 9) -> Equação: 5*11 + 11^2 + 3 + 9^3 = 908
+Teste Cromossomo (x: 10, y: 11, w: 9, z: 2) -> Equação: 5*10 + 11^2 + 9 + 2^3 = 188
+Teste Cromossomo (x: 10, y: 11, w: 1, z: 1) -> Equação: 5*10 + 11^2 + 1 + 1^3 = 173
+Teste Cromossomo (x: 11, y: 10, w: 3, z: 9) -> Equação: 5*11 + 10^2 + 3 + 9^3 = 887
+Geração 11 - Novo Melhor Cromossomo: (x: 10, y: 11, w: 9, z: 2) com Aptidão: 0.25
+Teste Cromossomo (x: 10, y: 15, w: 9, z: 2) -> Equação: 5*10 + 15^2 + 9 + 2^3 = 292
+Teste Cromossomo (x: 2, y: 11, w: 9, z: 2) -> Equação: 5*2 + 11^2 + 9 + 2^3 = 148
+Teste Cromossomo (x: 10, y: 11, w: 9, z: 2) -> Equação: 5*10 + 11^2 + 9 + 2^3 = 188
+Teste Cromossomo (x: 10, y: 11, w: 13, z: 1) -> Equação: 5*10 + 11^2 + 13 + 1^3 = 185
+Teste Cromossomo (x: 9, y: 11, w: 3, z: 1) -> Equação: 5*9 + 11^2 + 3 + 1^3 = 170
+Teste Cromossomo (x: 11, y: 11, w: 3, z: 1) -> Equação: 5*11 + 11^2 + 3 + 1^3 = 180
+Teste Cromossomo (x: 11, y: 11, w: 10, z: 6) -> Equação: 5*11 + 11^2 + 10 + 6^3 = 402
+Teste Cromossomo (x: 11, y: 11, w: 2, z: 0) -> Equação: 5*11 + 11^2 + 2 + 0^3 = 178
+Teste Cromossomo (x: 3, y: 11, w: 1, z: 1) -> Equação: 5*3 + 11^2 + 1 + 1^3 = 138
+Teste Cromossomo (x: 10, y: 11, w: 14, z: 2) -> Equação: 5*10 + 11^2 + 14 + 2^3 = 193
+Geração 12 - Solução encontrada: (x: 10, y: 11, w: 13, z: 1) com Aptidão: 1.0
+Aptidão do melhor cromossomo: 1.0
+
+Melhor cromossomo encontrado: (x: 10, y: 11, w: 13, z: 1)
+Original: 5*x + y^2 + w + z^3
+Equação: 5*10 + 11^2 + 13 + 1^3
+Valor da equação: 185
+Diferença absoluta de 185: 0
+Resolvido: True
